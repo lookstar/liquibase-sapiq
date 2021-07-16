@@ -1,0 +1,2 @@
+liquibase.ext.iq.datatype.BigIntTypeIQ
+liquibase.ext.iq.datatype.BlobTypeIQ

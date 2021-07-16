@@ -1,0 +1,3 @@
+liquibase.ext.iq.snapshot.IQSchemaSnapshotGenerator
+liquibase.ext.iq.snapshot.IQSequenceSnapshotGenerator
+liquibase.ext.iq.snapshot.IQUniqueConstraintSnapshotGenerator
